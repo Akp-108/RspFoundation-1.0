@@ -1,0 +1,27 @@
+.maingov{
+    margin: 02% 5% 
+}
+
+.govcard{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.head{
+    font-size: 40px;
+    color: green;
+}
+
+ hr{
+    height: 10px;
+    background-color: green;
+}
+
+.govdetails{
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 40% 40% ;
+    flex-wrap: wrap;
+    grid-gap: 50px;
+}

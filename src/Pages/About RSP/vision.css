@@ -1,0 +1,17 @@
+.imgContainer{ 
+    color: black;
+    margin-top: 5vh;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap ;
+    text-align: center;
+}
+div{
+    color: black;
+}
+
+.visionMain{
+    margin:2vh 10vw;
+    font-size: 25px;
+}
+

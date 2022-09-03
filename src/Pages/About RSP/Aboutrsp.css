@@ -1,0 +1,18 @@
+.Rspbottomdata{
+    height: 100px;
+    background-color: rgb(29, 202, 29);
+    text-align: center;
+}
+.heading{
+    color: green;
+}
+
+.div_data{
+    height: 50px;
+    text-align: center;
+}
+
+.puspose{
+    text-align: center;
+    color: green;
+}
