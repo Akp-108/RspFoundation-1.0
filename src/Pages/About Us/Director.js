@@ -12,7 +12,7 @@ const Director = () => {
         </header>
         <div className="details">
             <div>
-                <img src={imgDirector} alt="Image not found" />
+                <input type="image" img src = {imgDirector} alt="photo" />
             </div>
             <div className='para'>
                 <p>Ms. Indu Pandey (born in India, 1995) is Co-founder and Director of RSP Foundation, Noida (UP), India. She has completed her BCA and MBA with dual specializations in HR and operations. She has a wide experience of more than five years in the corporate sector and she has trained hundreds of young talents in professional work practice, entrepreneurship, human resources management, and corporate management at the internship level. She has served as Human Resources Manager, Educator & Career counselor and involved in HRD training activities. 

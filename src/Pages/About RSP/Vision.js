@@ -14,16 +14,16 @@ const Vision = () => {
           
             <div >
                 <div>
-                <img src={jawan} alt="Image not found" />
+                <input type="image" img src = {jawan} alt="photo" />
                 </div>
                 <h2 style={{color:"green"}}>JAI JAWAN</h2>
             </div>
             <div >
-                <img src={kisaan} alt="Image not found" />
+                <input type="image" img src = {kisaan} alt="photo" />
                 <h2 style={{color:"green"}}>JAI KISAN</h2>
             </div>
             <div >
-                <img src={Vigyaan} alt="Image not found" />
+                <input type="image" img src = {Vigyaan} alt="photo" />
                 <h2 style={{color:"green"}}>JAI VIGYAN</h2> 
             </div>
         </div>
