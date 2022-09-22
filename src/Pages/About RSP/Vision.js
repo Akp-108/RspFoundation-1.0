@@ -12,15 +12,17 @@ const Vision = () => {
           <p>Following the statement <b>"JAI JAWAN, JAI KISAN and JAI VIGYAN"</b> , to solve the problems of Poverty, Hunger, Illiteracy, Pollution, Disease, and Unemployment in our country</p>
         <div className='imgContainer'>
           
-            <div className="imadata">
+            <div >
+                <div>
                 <img src={jawan} alt="Image not found" />
+                </div>
                 <h2 style={{color:"green"}}>JAI JAWAN</h2>
             </div>
-            <div className="imadata">
+            <div >
                 <img src={kisaan} alt="Image not found" />
                 <h2 style={{color:"green"}}>JAI KISAN</h2>
             </div>
-            <div className="imadata">
+            <div >
                 <img src={Vigyaan} alt="Image not found" />
                 <h2 style={{color:"green"}}>JAI VIGYAN</h2> 
             </div>

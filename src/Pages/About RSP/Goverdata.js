@@ -27,6 +27,10 @@ import mission4 from './rspimg/mission 4.jpg'
 import mission5 from './rspimg/mission 5.jpg'
 import mission6 from './rspimg/mission 6.jpg'
 
+import jawan from './rspimg/jai jawan.jpg'
+import kisaan from './rspimg/jai kisaan.jpg'
+import Vigyaan from './rspimg/jai Vigyaan.jpg'
+
 export const govbody = [
     {
         img : atul, Name: "Atul Kumar Pandey" , Post: "Fullstack Developer", Speciaization: "React",  Mail: "atul123@gmail.com" 
@@ -122,4 +126,12 @@ export const rspMission = [
     {
         img: mission6, topic:"No Disease"
     },
+]
+
+export const vis = [
+    {
+        img1 : jawan,
+        img2: Vigyaan,
+        img3: kisaan
+    }
 ]
