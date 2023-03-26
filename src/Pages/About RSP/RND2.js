@@ -85,7 +85,6 @@ const RND2 = () => {
                 <div class="container1">
             <div class="front">
             <input type="image" img src = {rnd7} alt="photo" />
-                <h2>Burger</h2>
             </div>
             <div class="back">
                 <h2>R&D (Environmental)</h2>
@@ -95,7 +94,6 @@ const RND2 = () => {
                 <div class="container1">
             <div class="front">
             <input type="image" img src = {rnd8} alt="photo" />
-                <h2>Burger</h2>
             </div>
             <div class="back">
                 <h2>R&D (Ethical)</h2>
@@ -105,7 +103,6 @@ const RND2 = () => {
                 <div class="container1">
             <div class="front">
             <input type="image" img src = {rnd9} alt="photo" />
-                <h2>Burger</h2>
             </div>
             <div class="back">
                 <h2>R&D (Marine)</h2>
