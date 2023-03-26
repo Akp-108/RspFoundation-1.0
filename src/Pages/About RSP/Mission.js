@@ -2,7 +2,7 @@ import React from 'react'
 import {rspMission} from './Goverdata'
 import Rspcart from './Rspcart'
 
-const Mission = () => {
+const MissionH = () => {
   return (
     <div>
   <div className="main">
@@ -28,4 +28,4 @@ const Mission = () => {
   )
 }
 
-export default Mission
+export default MissionH
